@@ -1,0 +1,626 @@
+city,country,Historical,espace_vert,plage,population(hab),musées,Nombre de Musées,romantique,populationType_Grande,populationType_Moyenne,populationType_Petite,musee
+Madrid,Spain,0,1,0,3332035,"['centre sur la peinture antérieure au XX e siècle', 'musée Thyssen-Bornemisza et le musée Reina Sofía', 'Musée du Prado',  'centres de référence','musée du Prado est l'un des plus importants musées au monde consacré principalement à la peinture', 'Musée Reina Sofía et Musée Thyssen-Bornemisza', 'musée présente également des exemples d'autres artistes du début du siècle', 'musée Thyssen-Bornemisza représente l'une des plus grandes collections d'art privées au monde', 'galerie consacrée au Titien', 'musée est le seul en Espagne à présenter un panorama cohérent de tendances picturales telles que l'impressionnisme', 'Musée Reina Sofía est le musée national d' art contemporain', 'musées importants', 'Musée Reina Sofía', 'musée du Prado']",15,1,1,0,0,1
+Barcelona,Spain,0,1,1,134985,[],0,1,1,0,0,0
+Casablanca,Morocco,0,1,1,3566020,"['musée du judaïsme du monde arabe','centre-ville', 'musée Abderrahman Slaoui accueille des collections uniques de bijoux anciens', 'musée du Judaïsme marocain', 'musée sur le judaïsme dans le Monde arabe', 'musée casablancais de musique andalouse Dar Al Ala', 'Galeries Lafayette', ""musée de la musique andalouse propose trois petites salles d'expositions consacrées aux instruments"", ""Galeries Lafayette s'y installent dans les années 1930"", ""centre d'une place plantée de plusieurs arbres dont l'un porte de nombreux clous sur son tronc en raison d'une coutume ancestrale qui consiste à planter des clous dans le tronc de cet arbre par les pèlerins pour implorer de l'aide au saint"", 'Galerie de photographies']",11,0,1,0,0,1
+Valencia,Spain,0,1,1,807693,"['Musée des Sciences Principe Felipe', 'centre sportif',  ""Musée des Beaux-Arts de Valencia Musée de la céramique Musée d'Histoire de Valencia Musée de la Soie Musée des Soldats de Plomb Maison Musée du peintre José Benlliure et de son fils Mariano Benlliure Bibliothèque valencienne Bibliothèque publique de Valence Arts de la scène"", 'centres sportifs de chaque quartier', 'musée de la tauromachie', 'Centre municipal de Pelota Valenciana de Masarrochos', ""centres sportifs d'Orriols"", 'ateliers de charpenterie']",8,0,1,0,0,1
+Porto,Portugal,0,1,0,231800,[],0,0,1,0,0,0
+Fès,Morocco,1,1,0,1365000,"['Galerie Mohamed Kacimi', 'centre-ville comporte une salle de théâtre et de concerts', ""atelier de production et de formation de L'appartement 22 est développé par Abdellah Karroum""]",3,0,1,0,0,1
+Sevilla,Spain,0,1,0,684025,[],0,1,1,0,0,0
+Málaga,Spain,0,1,1,586384,"['centre d', 'musées', 'Centre Pompidou Málaga est ouvert depuis le 28 mars 2015', 'musée Carmen Thyssen Bornemisza accueille la collection de la baronne', 'musée municipal d', 'musée Picasso de Malaga']",6,0,1,0,0,1
+Marrakech,Morocco,1,0,0,928850,"[""Musée d'art islamique de Marrakech"", 'Musée Bert-Flint ou maison Tiskwin', 'Musée Dar Si Saïd', 'Musée de la Palmeraie', 'Musée de Marrakech', 'Musée Yves Saint Laurent de Marrakech', 'Musée de Mouassine', ""musée berbère de la vallée de l'Ourika""]",8,1,1,0,0,1
+Tangier,Morocco,0,1,1,134985,[],0,0,1,0,0,0
+Sale,Morocco,0,1,1,890403,[],0,0,1,0,0,0
+Bilbao,Spain,0,1,1,346096,['Musée Guggenheim'],0,0,1,0,0,0
+Zaragoza,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Murcia,Spain,0,1,0,1516055,[],0,0,1,0,0,0
+Las Palmas,Spain,0,1,1,378027,"[""musée Museo Canario dans lequel on peut voir d'importants vestiges de l'époque des Guanches"", 'musée retrace les expéditions vers le nouveau monde', ""musée d'art moderne Centro Atlántico de Arte Moderno""]",3,0,1,0,0,1
+Rabat,Morocco,0,1,1,645500,"['Musée Mohammed VI', 'galeries officielles sont Bâb Er-Rouah', 'musée des Arts contemporains']",3,0,1,0,0,1
+Palma,Spain,0,1,1,423350,['centre historique est assez vaste et permet à la ville de garder un caractère authentique'],1,0,1,0,0,1
+Lisbon,Portugal,0,1,1,134985,[],0,1,1,0,0,0
+Santa Cruz,Spain,0,1,1,209395,"['centre culturel qui héberge une bibliothèque ouverte au public 24h', ""centres maçonniques d'Espagne avant sa saisie par le régime franquiste en 1936"", ""ateliers maçonniques les plus importants d'Espagne au XX e siècle"", 'musée municipal des beaux-arts', ""centre maçonnique d'Espagne jusqu'à l'occupation militaire du franquisme"", 'musée historique militaire des Canaries', 'Musées et institutions', ""centre le monument aux morts de la guerre d'Espagne"", 'Musée Municipal des Beaux-Arts de Santa Cruz de Tenerife Temple maçonnique de Santa Cruz de Tenerife', ""musée de la Nature et de l'Homme"", 'centre international de Foires et Congrès de Tenerife']",11,0,1,0,0,1
+Meknès,Morocco,1,0,0,942945,"['Musées et medersas', 'Musée de la poterie rifaine', 'Musée de la Musique', 'Musée Dar Jamaï']",4,0,1,0,0,1
+Oujda-Angad,Morocco,0,0,0,477100,[],0,0,1,0,0,0
+Kenitra,Morocco,0,1,1,473703,[],0,0,1,0,0,0
+Aves,Portugal,0,1,0,134985,["centre de l'action"],1,0,1,0,0,1
+Agadir,Morocco,0,0,1,420288,[],0,1,1,0,0,0
+Tétouan,Morocco,1,1,0,402118,"['musée archéologique', 'Centres internationaux de langues', ""centres universitaires majeurs du Maroc puisqu'elle abrite la Présidence de l' Université Abdelmalek Essaâdi de la région Tanger-Tétouan"", 'centre de rencontre de plusieurs styles']",4,1,1,0,0,1
+Sintra,Portugal,0,1,1,377835,[],0,1,1,0,0,0
+Alicante,Spain,0,1,1,349282,[],0,0,1,0,0,0
+Córdoba,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Taourirt,Morocco,0,0,0,125615,[],0,0,1,0,0,0
+Temara,Morocco,0,0,1,535000,[],0,0,1,0,0,0
+Safi,Morocco,0,0,1,308508,[],0,0,1,0,0,0
+Vila Nova de Gaia,Portugal,0,1,1,302295,[],0,0,1,0,0,0
+Valladolid,Spain,0,1,0,297459,"['centre historique de la ville', ""musée Patio Herreriano dans l'ancien monastère""]",2,0,1,0,0,1
+Vigo,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Gijón,Spain,0,0,1,268313,"[""Centre d'art contemporain engagé dans le développement des liens entre art"", 'musée Revillagigedo', 'Musée Nicanor Piñole Musée Juan Barjola', 'Musée Evaristo Valle', 'musée d', 'musée à propos ', 'Musées et galeries ', 'Musée international de cornemuse', 'Musée du peuple des Asturies Musée du chemin de fer ']",9,0,1,0,0,1
+Vitoria-Gasteiz,Spain,0,1,0,255886,[],0,0,1,0,0,0
+A Coruña,Spain,0,1,1,247376,"[""musée María Pita la casa do Home ou Domus l'aquarium Finisterrae"", 'musées aux alentours', 'musée Carlos Maside', 'musée Pazo de Mariñán', 'musée de Arte Contemporánea Unión Fenosa la Casa Picasso le musée historique', 'musée ethnographique de Culleredo']",6,0,1,0,0,1
+Elche,Spain,0,0,1,238293,"[""musées d'Elche permet de voyager à travers l'histoire et les traditions de la ville avec des espaces consacrés à l'art"", ""musée d'archéologie et d'histoire d'Elche"", ""musée d'archéologie et d'histoire d'Elche""]",3,0,1,0,0,1
+Granada,Spain,0,1,0,230595,[],0,1,1,0,0,0
+Khénifra,Morocco,0,0,0,127047,[],0,0,1,0,0,0
+Badalona,Spain,0,1,1,225957,[],0,0,1,0,0,0
+Tarrasa,Spain,0,0,0,225277,"[""Centre d'interprétation médiéval de la ville de Terrassa Couvent Sant Francesc"", 'Musée de la Science et de la Technique de Catalogne', 'Centre de Documentation et Musée Textile de la Députation de Barcelone le Musée Paroissial du Sant Esperit', 'Musées Le musée de Terrassa']",4,0,1,0,0,1
+El Jadida,Morocco,0,0,1,134985,[],0,0,1,0,0,0
+Sabadell,Spain,0,1,0,218300,["musée d'histoire"],1,0,1,0,0,1
+Cartagena,Spain,0,1,1,218050,"['musée Carmen Conde',  'musée ethnographique du Campo de Carthagène', 'Musée du théâtre romain', 'musée du théâtre romain de Carthagène', ""musée d'archéologie subaquatique"", 'musée militaire', 'musées les plus importants de la municipalité', 'musée archéologique municipal', 'musée naval de Carthagène']",9,0,1,0,0,1
+Laâyoune,Morocco,0,0,1,217732,"['Cathedral of Saint Francis of Asis','Pretty skin beauty bar']",2,0,1,0,0,1
+Oviedo,Spain,0,1,0,217584,[],0,0,1,0,0,0
+Cascais,Portugal,0,1,1,206479,[],0,0,1,0,0,0
+Jerez de la Frontera,Spain,0,1,0,213231,["centre de l'élevage des meilleurs chevaux andalous et le site de l' École royale andalouse d'art équestre"],1,0,1,0,0,1
+Móstoles,Spain,0,1,0,211265,[],0,0,1,0,0,0
+Mohammedia,Morocco,0,0,1,220455,[],0,0,1,0,0,0
+Pamplona,Spain,0,1,0,205762,["musée de Navarre est élevé à l'emplacement d'un hôpital du XVI e siècle"],1,0,1,0,0,1
+Loures,Portugal,0,1,0,623,[],0,0,0,0,1,0
+Almería,Spain,0,1,1,200578,[],0,0,1,0,0,0
+Alcalá de Henares,Spain,0,1,0,199184,[],0,0,1,0,0,0
+Béni Mellal,Morocco,0,0,0,209563,['centre dans la partie montagneuse'],1,0,1,0,0,1
+Leganés,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Donostia,Spain,0,0,1,188743,"['Centre Kursaal', 'Centre Culturel Koldo Mitxelena', 'Musée de la chasse à la baleine', 'Musées', 'centre culturel Arteleku', 'Musée de la Mer', 'musée rappelle cette activité traditionnelle et dangereuse des Basques', 'Musée de la mer', 'Musée San Telmo', 'centres culturels dotés de bibliothèque', 'Musée de la Mer sur aquariumss', 'Musée de la Mer', 'Musée des Sciences', 'Musée Chillida-Leku', 'Centre international de culture contemporaine', 'Musée des Sciences sur eurekamuseoa', 'Musée municipal de San Telmo']",17,0,1,0,0,1
+Fuenlabrada,Spain,0,1,0,188736,[],0,0,1,0,0,0
+Getafe,Spain,0,1,0,185899,[],0,0,1,0,0,0
+Seixal,Portugal,0,1,1,158269,[],0,0,1,0,0,0
+Braga,Portugal,0,1,1,201583,[],0,0,1,0,0,0
+Almada,Portugal,0,1,1,174030,[],0,0,1,0,0,0
+Castellón de la Plana,Spain,0,0,1,176238,"['Musée ethnologique offre un exemple de culture typique de la ville', 'Musée d', 'Musée de la Mer', 'Musées', 'musée des Beaux-Arts', 'Musée des beaux-arts de Castellón']",6,0,1,0,0,1
+Matosinhos,Portugal,0,1,1,175478,[],0,0,1,0,0,0
+Amadora,Portugal,0,1,0,175136,[],0,0,1,0,0,0
+Burgos,Spain,0,1,0,174451,"['Musée de Burgos', ""musée de l'Évolution humaine"", ""musée du Retable - L'église Saint-Étienne"", 'musée de Burgos', ""Musée de l'Évolution humaine"", ""musée présente notamment les trouvailles de la Sierra d'Atapuerca"", 'galerie couverte', 'musée Marceliano Santamaria', 'centre de la ville']",9,0,1,0,0,1
+Albacete,Spain,0,1,0,173206,[],0,0,1,0,0,0
+Santander,Spain,0,1,1,172726,['musée maritime du Cantabrique et la baie'],1,0,1,0,0,1
+Oeiras,Portugal,0,1,1,172120,[],0,0,1,0,0,0
+Alcorcón,Spain,0,1,0,171772,[],0,0,1,0,0,0
+Gondomar,Portugal,0,1,0,168027,[],0,0,1,0,0,0
+Nador,Morocco,0,0,1,565987,['centre de recherche'],1,0,1,0,0,1
+Guadalajara,Spain,0,1,0,1385629,"['centre historique', 'centre-ville', 'Centre historique']",3,0,1,0,0,1
+La Laguna,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Guimarães,Portugal,1,1,0,161871,["centre historique de Guimarães fut déclaré Patrimoine mondial de l'humanité par l' Unesco pour ses monuments qui datent du Moyen Âge et qui"],1,0,1,0,0,1
+Marbella,Spain,0,1,0,156295,[],0,0,1,0,0,0
+Logroño,Spain,0,1,0,150583,['musée de la Rioja'],1,0,1,0,0,1
+Badajoz,Spain,0,1,0,150190,"[""musées Itinéraire des fortifications et des portes historiques Itinéraire de l'Alcazaba Itinéraire des églises et des couvents Itinéraire des bâtiments historiques et singuliers Itinéraire des parcs et jardins Itinéraires gastronomiques Tourisme naturel et ornithologique Route des sites historiques"", 'centre historique est remarquable']",2,0,1,0,0,1
+Taza,Morocco,0,0,0,152678,[],0,0,1,0,0,0
+Odivelas,Portugal,0,1,0,143995,[],0,0,1,0,0,0
+Salamanca,Spain,0,1,0,134985,[],0,1,1,0,0,0
+Coimbra,Portugal,0,1,0,143396,[],0,0,1,0,0,0
+Lleida,Spain,0,1,0,143094,[],0,0,1,0,0,0
+Huelva,Spain,0,1,1,142532,[],0,0,1,0,0,0
+Dos Hermanas,Spain,0,1,0,138981,[],0,0,1,0,0,0
+Tarragona,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Vila Franca de Xira,Portugal,0,1,0,136886,[],0,0,1,0,0,0
+Maia,Portugal,0,1,0,134985,[],0,0,1,0,0,0
+Famalicão,Portugal,0,0,0,134985,[],0,0,1,0,0,0
+Parla,Spain,0,1,0,133004,[],0,0,1,0,0,0
+Mataró,Spain,0,1,1,129870,"['centre commercial', 'centre est composé de rues piétonnes', 'centre culturel important dans la comarque du Maresme', 'musées et un parc']",4,0,1,0,0,1
+Torrejón de Ardoz,Spain,0,1,0,137711,[],0,0,1,0,0,0
+Larache,Morocco,0,0,1,130984,[],0,0,1,0,0,0
+Algeciras,Spain,0,1,1,123639,[],0,0,1,0,0,0
+León,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Barcelos,Portugal,0,1,0,120391,[],0,0,1,0,0,0
+Alcobendas,Spain,0,1,0,119416,[],0,0,1,0,0,0
+Jaén,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Cádiz,Spain,0,1,1,111811,[],0,0,1,0,0,0
+Berkane,Morocco,0,0,0,120710,[],0,0,1,0,0,0
+Reus,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Roquetas de Mar,Spain,0,1,1,106510,"['centre de Roquetas de Mar', 'centre de Roquetas de Mar et ses quartiers les plus proches']",2,0,1,0,0,1
+Ad Dakhla,Morocco,0,0,1,106277,[],0,1,1,0,0,0
+Girona,Spain,0,1,1,104320,[],0,0,1,0,0,0
+Ourense,Spain,0,1,0,104250,[],0,0,1,0,0,0
+Telde,Spain,0,1,1,102487,[],0,0,1,0,0,0
+Al Fqih Ben Çalah,Morocco,0,0,0,134985,[],0,0,1,0,0,0
+San Vicente de Baracaldo,Spain,0,0,0,101229,[],0,0,1,0,0,0
+Vaciamadrid,Spain,0,0,0,100275,[],0,0,1,0,0,0
+Viseu,Portugal,0,1,0,134985,[],0,0,1,0,0,0
+Santiago de Compostela,Spain,0,1,0,98687,"[""musée d'histoire et un musée d'art international"", ""musée du Peuple galicien occupe l'ancien monastère Santo Domingo de Bonaval qui fut fondé au début du XIII e siècle mais dont la structure actuelle date du XVII e - XVIII e siècle"", 'centre de recherche du patrimoine culturel', 'Musée du Peuple galicien']",4,0,0,1,0,1
+Lorca,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Lugo,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Las Rozas de Madrid,Spain,0,1,0,98086,"['Centres culturels municipaux', ""centre héberge l'école municipale de théâtre"", 'Musée du chemin de fer']",3,0,0,1,0,1
+San Cugat del Vallés,Spain,0,0,0,97530,[],0,0,0,1,0,0
+Cáceres,Spain,1,1,0,134985,[],0,0,1,0,0,0
+San Fernando,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Valongo,Portugal,0,1,0,93858,[],0,0,0,1,0,0
+Errachidia,Morocco,0,0,0,92374,[],0,0,0,1,0,0
+Mijas,Spain,0,1,1,91691,"['musée du vin', 'musée des miniatures']",2,0,0,1,0,1
+El Ejido,Spain,0,1,0,89975,[],0,0,0,1,0,0
+El Puerto de Santa María,Spain,0,1,1,89813,[],0,0,0,1,0,0
+Torrevieja,Spain,0,1,1,89290,[],0,0,0,1,0,0
+Viana do Castelo,Portugal,0,1,1,88725,[],0,0,0,1,0,0
+Chiclana de la Frontera,Spain,0,1,1,88709,[],0,0,0,1,0,0
+Torrente,Spain,0,0,0,134985,[],0,0,1,0,0,0
+Paredes,Portugal,0,1,0,134985,[],0,0,1,0,0,0
+Ciudad de Melilla,Spain,0,0,1,83489,[],0,0,0,1,0,0
+Toledo,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Fuengirola,Spain,0,1,1,85598,"['Musée ouvert', 'musée de la ville et fut inauguré en 2003']",2,0,0,1,0,1
+Vélez-Málaga,Spain,0,1,1,85377,[],0,0,0,1,0,0
+Arona,Spain,0,1,0,134985,[],0,0,1,0,0,0
+San Baudilio de Llobregat,Spain,0,0,0,83919,[],0,0,0,1,0,0
+Talavera de la Reina,Spain,0,1,0,84137,['Musée national des arts décoratifs de Madrid'],1,0,0,1,0,1
+Ciudad de Ceuta,Spain,0,0,1,82787,[],0,0,0,1,0,0
+Pontevedra,Spain,0,1,0,82535,"['ateliers pour les enfants', 'ateliers']",2,0,0,1,0,1
+Valdemoro,Spain,0,1,0,81394,[],0,0,0,1,0,0
+Orihuela,Spain,0,1,1,82449,[],0,0,0,1,0,0
+Rubí,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Sefrou,Morocco,0,0,0,85632,[],0,0,0,1,0,0
+Vila do Conde,Portugal,0,1,1,79533,[],0,0,0,1,0,0
+Torres Vedras,Portugal,0,1,0,79465,[],0,0,0,1,0,0
+Manresa,Spain,0,1,0,78877,['centre de la jornada inaugural de la 1a Volta Ciclista a Catalunya femenina'],1,0,0,1,0,1
+Aveiro,Portugal,0,1,1,80880,[],0,1,0,1,0,0
+Barreiro,Portugal,0,1,0,78764,[],0,0,0,1,0,0
+Queluz,Portugal,0,1,0,134985,[],0,0,1,0,0,0
+Gandía,Spain,0,0,1,78108,[],0,0,0,1,0,0
+Essaouira,Morocco,1,0,1,77966,["Centre régional d'investissement de Marrakech"],1,1,0,1,0,1
+Fnidq,Morocco,0,0,1,91177,[],0,0,0,1,0,0
+Estepona,Spain,0,1,1,76975,[ "Musée municipal d'Estepona Le Musée archéologique d'Estepona Fresques"],1,0,0,1,0,1
+Mafra,Portugal,0,1,0,134985,[],0,0,1,0,0,0
+Alcalá de Guadaira,Spain,0,0,0,76547,[],0,0,0,1,0,0
+Palencia,Spain,0,1,0,76331,[],0,0,0,1,0,0
+Molina de Segura,Spain,0,1,0,76074,[],0,0,0,1,0,0
+Benalmádena,Spain,0,1,1,75801,[],0,0,0,1,0,0
+Avilés,Spain,0,1,0,75518,[],0,0,0,1,0,0
+Ciudad Real,Spain,0,1,0,75303,[],0,0,0,1,0,0
+Paterna,Spain,0,1,0,73488,[],0,0,0,1,0,0
+Majadahonda,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Benidorm,Spain,0,1,1,72342,[],0,0,0,1,0,0
+Penafiel,Portugal,0,1,0,72265,[],0,0,0,1,0,0
+Santo Tirso,Portugal,0,1,0,71530,[],0,0,0,1,0,0
+Loulé,Portugal,0,1,1,70622,"[""musée tient son nom de ce qu'il est situé dans une aile restaurée du couvent du Saint-Esprit"", 'Musée du Saint-Esprit']",2,0,0,1,0,1
+Torremolinos,Spain,0,1,1,70434,['musée de Torremolinos'],1,0,0,1,0,1
+Sagunto,Spain,0,0,0,70128,"['centre historique', ""centre historique comprend différents monuments historiques datant de plusieurs époques différentes de l'histoire"", 'Musée archéologique de Sagonte']",3,0,0,1,0,1
+Sanlúcar de Barrameda,Spain,0,1,1,69805,[],0,0,0,1,0,0
+Ponta Delgada,Portugal,0,1,0,67287,"[""galeries d'art"", ""Centre d'art sacré ainsi que des collections ayant trait à l'ethnographie régionale"", 'Musée Carlos Machado', 'Musée militaire des Açores', 'Centre culturel de Ponta Delgada et la Galeria Fonseca Macedo']",5,0,0,1,0,1
+Castelldefels,Spain,0,1,1,68427,[],0,0,0,1,0,0
+Villanueva y Geltrú,Spain,0,0,0,68854,[],0,0,0,1,0,0
+Youssoufia,Morocco,0,0,0,69945,[],0,0,0,1,0,0
+Viladecáns,Spain,0,0,0,66677,[],0,0,0,1,0,0
+Moita,Portugal,0,1,0,70226,[],0,0,0,1,0,0
+Collado-Villalba,Spain,0,0,0,65657,[],0,0,0,1,0,0
+El Prat de Llobregat,Spain,0,0,0,65516,[],0,0,0,1,0,0
+Faro,Portugal,0,1,1,67650,['musée archéologique de la ville'],1,0,0,1,0,1
+Arrecife,Spain,0,1,1,64826,['centre-ville sont tapissées de sel'],1,0,0,1,0,1
+Martil,Morocco,0,0,1,81959,[],0,0,0,1,0,0
+Póvoa de Varzim,Portugal,0,1,1,65882,[],0,0,0,1,0,0
+Ferrol,Spain,0,1,0,134985,[],0,0,1,0,0,0
+La Línea de la Concepción,Spain,0,1,1,63773,[],0,0,0,1,0,0
+Ponferrada,Spain,0,1,0,62963,['centre historique de Ponferrada'],1,0,0,1,0,1
+Granollers,Spain,0,1,0,63092,[],0,0,0,1,0,0
+Irún,Spain,0,0,0,62920,['musée archéologique'],1,0,0,1,0,1
+Santarém,Portugal,0,1,0,134985,['Museu Diocesano de Santarém'],1,0,1,0,0,1
+Figueira da Foz,Portugal,0,1,1,62125,[],0,0,0,1,0,0
+San Vicente del Raspeig,Spain,0,0,0,59928,['Museum of the University of Alicante'],1,0,0,1,0,1
+Aranjuez,Spain,0,1,1,60668,"['Palais royal d'Aranjuez','Musée des felouques royales']",2,0,0,1,0,1
+Skhirate,Morocco,0,0,1,58331,[],0,0,0,1,0,0
+Alcoy,Spain,0,0,0,59493,"['Musées', ""Musée des Pompiers d'Alcoy"", ""musée consacré au patrimoine archéologique de la comarque d'Alcoy"", ""musée consacré aux fêtes de Maures et Chrétiens d'Alcoy"", 'Musée archéologique Camil Visedo']",5,0,0,1,0,1
+Zamora,Spain,0,1,0,59259,['centre historique'],1,0,0,1,0,1
+Motril,Spain,0,1,1,58939,"[""musée préindustriel du sucre Le centre d'interprétation de la canne à sucre Le centre de Développement Piscicole et la Salle d'interprétation de la Mer"", 'musée aéronautique Activités touristiques']",2,0,0,1,0,1
+Felgueiras,Portugal,0,1,0,58065,[ 'Centre culturel de Lixa'],1,0,0,1,0,1
+Ávila,Spain,1,1,0,57741,"['Museo del Convento de la Encarnacion','Convento de San Jose - Museo Teresiano','Museo de Avila','Mysticism Interpretation Centre']",4,0,0,1,0,1
+Al Hoceïma,Morocco,0,1,1,56716,[],0,1,0,1,0,0
+Mdiq,Morocco,0,0,1,68394,[],0,0,0,1,0,0
+Castelo Branco,Portugal,0,1,0,56109,[],0,0,0,1,0,0
+Portimão,Portugal,0,1,1,63564,"['Museu de Portimao','Casa Manuel Teixeira Gomes']",2,0,0,1,0,1
+Pombal,Portugal,0,1,0,134985,"['Castelo de Pombal','Osso da Baleia Beach']",2,0,1,0,0,1
+Azrou,Morocco,0,0,0,84895,['Centre Culturel d'Azrou'],1,0,0,1,0,1
+Huesca,Spain,0,1,0,54136,"['Planetario de Aragón. Observatoires et planétariums','Museo de Huesca. Musées spécialisés','Museo Pedagógico de Aragón']",3,0,0,1,0,1
+San Bartolomé,Spain,0,1,0,134985,"['San Bartolomé','Musée d'Ethnographie Tanit']",2,0,1,0,0,1
+Alcobaça,Portugal,0,1,0,134985,"['Monastery of Alcobaça','Baia de Sao Martinho do Porto','Praia do Salgado','Museu Do Vinho De Alcobaca. Musées spécialisés']",4,0,1,0,0,1
+Évora,Portugal,1,1,0,56596,['musée d'Évora'],1,0,0,1,0,1
+Cuenca,Spain,1,1,0,134985,"['Museo de Cuenca','Science Museum of Castilla La Mancha']",2,0,1,0,0,1
+Ibiza,Spain,0,1,1,132637,"['Musée d'Art Contemporain d'Ibiza','Museo Puget']",2,0,1,0,0,1
+Vila Real,Portugal,0,1,0,51852,[],0,0,0,1,0,0
+Caldas da Rainha,Portugal,0,1,1,51729,[],0,0,0,1,0,0
+El Kelaa des Sraghna,Morocco,0,0,0,109915,[],0,0,1,0,0,0
+Cuenca,Spain,0,1,1,134985,"[""musée d'art abstrait"",'Musée d'Art Moderne de Cuenc','Musée des cultures aborigènes']",3,0,1,0,0,1
+Marco de Canavezes,Portugal,0,1,0,53961,[],0,0,0,1,0,0
+Elda,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Pola de Siero,Portugal,0,1,0,52194,[],0,0,0,1,0,0
+Covilhã,Portugal,0,1,1,51797,[],0,0,0,1,0,0
+Utrera,Portugal,0,1,0,51718,['Museo Legado Hermanos Álvarez Quintero'],1,0,0,1,0,1
+Évora,Portugal,0,1,1,56596,['musée d'Évora'],1,0,0,1,0,1
+Qasbat Tadla,Morocco,0,0,0,49902,[],0,0,0,1,0,0
+Manacor,Spain,0,1,1,46395,[],0,0,0,1,0,0
+Denia,Spain,0,0,1,45622,"[ 'musée offre un échantillon représentatif de la production de jouet à Dénia', 'Musée du jouet', 'Musée archéologique']",3,0,0,1,0,1
+Olhão,Portugal,0,1,1,45396,['Municipal Museum of Olhão'],1,0,0,1,0,1
+Albufeira,Portugal,0,1,1,44164,"['Musée municipal ', 'musée consistent en la conservation', 'centre de la vieille ville', 'musée dispose ', 'musées depuis 2003 et bénéficie des avantages inhérents de son intégration', 'centre historique de la ville ']",6,0,0,1,0,1
+Ponte de Lima,Portugal,0,1,1,44609,[],0,0,0,1,0,0
+Puerto del Rosario,Spain,0,1,1,43390,"['Casa Museo Miguel de Unamuno','Centro de Arte Juan Ismael']",2,0,0,1,0,1
+Alcantarilla,Spain,0,1,0,43049,"['Ethnological Museum of the Huerta','Museo escultor Anastasio Martínez Valcárcel']",2,0,0,1,0,1
+Santa Cruz,Portugal,0,1,1,209395,"['centre culturel qui héberge une bibliothèque ouverte au public 24h', ""centres maçonniques d'Espagne avant sa saisie par le régime franquiste en 1936"", 'centre-ville', ""ateliers maçonniques les plus importants d'Espagne au XX e siècle"", 'musée municipal des beaux-arts', ""centre maçonnique d'Espagne jusqu'à l'occupation militaire du franquisme"", 'musée historique militaire des Canaries', 'Musées et institutions', ""centre le monument aux morts de la guerre d'Espagne"", 'Musée Municipal des Beaux-Arts de Santa Cruz de Tenerife Temple maçonnique de Santa Cruz de Tenerife', ""musée de la Nature et de l'Homme"", 'centre international de Foires et Congrès de Tenerife']",12,0,1,0,0,1
+Chefchaouene,Morocco,0,0,0,42786,"['Musée Ethnographique de Chefchaouen','Kasbah Museum']",2,1,0,1,0,1
+Guarda,Portugal,0,1,1,42541,[],0,0,0,1,0,0
+La Orotava,Spain,0,1,1,42454,["musée situé dans l'ancien couvant Santo Domingo et qui présente une collection d'artisanat espagnol et ibéro-américain"],1,0,0,1,0,1
+Puerto Real,Spain,0,1,1,42069,['centre culturel municipal'],1,0,0,1,0,1
+El Aïoun,Morocco,0,0,1,41832,[],0,0,0,1,0,0
+Blanes,Spain,0,1,1,41653,['Musée de la mer de Lloret de Mar'],1,0,0,1,0,1
+Lloret de Mar,Spain,0,1,1,41559,[],0,0,0,1,0,0
+Soria,Spain,0,1,1,39821,"['Museo Numantino','Provincial Museum of Popular Suit']",2,0,0,1,0,1
+Zagora,Morocco,0,0,0,52168,"['centre de la ville', 'Musée des Arts et Traditions de la Vallée du Draa - la visite de Tamegroute et de ses poteries - la vallée du Draa et la palmeraie de Zagora et ses nombreux petits villages - le désert du Sahara']",2,0,0,1,0,1
+Plasencia,Spain,0,1,0,39412,["centre de l'ancienne ville est chaque mardi le c?ur d'un marché traditionnel où on peut trouver différents produits agricoles et artisanaux"],1,0,0,1,0,1
+Abrantes,Portugal,0,1,1,34329,[' Museu Nacional Ferroviário'],1,0,0,1,0,1
+Narón,Spain,0,1,1,39051,"['Tower of Hercules','Cathedral De Santiago de Compostela','Museo Molinos Mazonovo']",3,0,0,1,0,1
+Marinha Grande,Portugal,0,1,1,38800,[],0,0,0,1,0,0
+Trofa,Portugal,0,1,1,38999,"['Nossa Senhora das Dores Chapel','Igreja Paroquial de S. Cristóvão do Muro']",2,0,0,1,0,1
+Ermezinde,Portugal,0,0,0,134985,['Museu da Magia Portugal'],1,0,1,0,0,1
+Los Palacios y Villafranca,Spain,0,1,0,38698,['Museo Etnográfico y Tecnológico Juan Begines Maestre'],1,0,0,1,0,1
+Arucas,Spain,0,1,1,38601,["musée municipal qui retrace l'histoire de la ville"],1,0,0,1,0,1
+Aziylal,Morocco,0,1,0,134985,[],0,0,1,0,0,0
+Ripollet,Spain,0,1,0,39269,[],0,0,0,1,0,0
+Sama,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Olot,Spain,0,1,0,37975,["centre d'Olot et se termine à la rue du Tura où l'on danse le Bal de l'Heure"],1,0,0,1,0,1
+San Adrián de Besós,Spain,0,0,0,37925,[],0,0,0,1,0,0
+Santa Pola,Spain,0,1,1,37816,[],0,0,0,1,0,0
+Oleiros,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Tudela,Spain,0,1,1,134985,"['Musées et établissements culturels', ""Musée d'art moderne Muñoz Sola"", 'Centre culturel Miguel Sánchez Montés', 'Musée Muñoz Sola', 'Centre cultural Castel Ruiz', 'musée Decanal', 'Musée diocésain']",7,0,1,0,0,1
+Don Benito,Spain,0,1,0,37485,[],0,0,0,1,0,0
+Bouznika,Morocco,0,1,1,45175,[],0,0,0,1,0,0
+Silves,Portugal,0,1,1,37126,"[""musée municipal d'archéologie expose des traces d'occupation remontant à la Préhistoire"", 'centre-ville', 'musée du liège']",3,0,0,1,0,1
+Moncada,Spain,0,1,0,22067,[],0,0,0,1,0,0
+Águilas,Spain,0,1,1,36862,[],0,0,0,1,0,0
+Torres Novas,Portugal,0,1,0,36717,[],0,0,0,1,0,0
+Cambrils,Spain,0,1,0,36496,"[""musée d'histoire de Cambrils"", ""musée d'Histoire de Cambrils"", ""musée d'histoire"", 'centre-ville', ""centre une île dotée d'un splendide observatoire"", 'centre de transmission de signaux télégraphiques et visuelles', 'centre urbain de Cambrils', 'Centre Culturel et Professionnel', 'musée agricole']",9,0,0,1,0,1
+Tomelloso,Spain,0,1,0,36304,["Musée d' art contemporain Infante-Elena"],1,0,0,1,0,1
+Teruel,Spain,0,1,0,36267,[],0,0,0,1,0,0
+Beja,Portugal,0,1,1,62303,["Centre régional de l'Institut national d'informatique et de bureautique de Béja"],1,0,0,1,0,1
+Andújar,Spain,0,1,1,35788,[],0,0,0,1,0,0
+Burriana,Spain,0,0,0,35750,"['centre de documentation complet',  'Muséeo Archivo de la Naranja', ""Musée de l'Orange"", 'Musée unique en son genre en Europe']",4,0,0,1,0,1
+Câmara de Lobos,Portugal,0,1,0,35666,[],0,0,0,1,0,0
+Angra do Heroísmo,Portugal,1,1,1,134985,[],0,0,1,0,0,0
+Bragança,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+San Javier,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Azuqueca de Henares,Spain,0,1,0,35498,[],0,0,0,1,0,0
+Yecla,Spain,0,1,0,35521,['Museo Arqueológico Municipal '],1,0,0,1,0,1
+Galapagar,Spain,0,1,0,35273,[],0,0,0,1,0,0
+Villajoyosa,Spain,0,0,1,36093,['Musée archéologique et ethnologique Musée du chocolat Promenade au bord de la mer'],1,0,0,1,0,1
+Tortosa,Spain,0,1,0,34639,"[""Centre d'Interprétation de la Semaine sainte"", 'Musée de Tortose', 'musée de sculptures à l']",3,0,0,1,0,1
+Mazarrón,Spain,0,1,1,34462,['Musée archéologique'],1,0,0,1,0,1
+Esposende,Portugal,0,1,1,31786,[],0,0,0,1,0,0
+San Roque,Spain,0,1,1,134985,"['Museo Municipal de San Roque (Carteia)','Centro de Arte Contemporáneo de San Roque']",2,0,1,0,0,1
+Aranda de Duero,Spain,0,1,1,33626,"['Museo de Arte Sacro (Aranda de Duero)','Ceramics Museum']",2,0,0,1,0,1
+Castro-Urdiales,Spain,0,1,1,33225,[],0,0,0,1,0,0
+Níjar,Spain,0,1,1,32858,"['Museo L' Atelier Níjar','Museo ?La Casa de los Artesanos?']",2,0,0,1,0,1
+Ingenio,Spain,0,1,1,32354,[],0,0,0,1,0,0
+Ribeira Grande,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Sitges,Spain,0,1,1,31954,"['musée romantique Can Llopis et la Fondation Stämpfli', ""musée Cau Ferrat est installée dans l'ancienne maison-atelier de l'artiste Santiago Rusiñol"", ""musée d'art"", 'Musées et institutions culturelles', 'musée Maricel']",5,0,0,1,0,1
+Carballo,Spain,0,1,1,31416,[],0,0,0,1,0,0
+Ílhavo,Portugal,0,1,1,38598,[],0,0,0,1,0,0
+Navalcarnero,Spain,0,1,0,31974,[],0,0,0,1,0,0
+Asilah,Morocco,0,0,1,31147,[],0,1,0,1,0,0
+Lagos,Portugal,0,1,1,16536000,"[""centre d'industrie cinématographique prospère souvent surnommée Nollywood"", 'centre de distribution']",2,0,1,0,0,1
+Espinho,Portugal,0,1,1,31786,['Museu Municipal De Espinho'],1,0,0,1,0,1
+Arcos de la Frontera,Spain,0,1,0,30953,[],0,0,0,1,0,0
+Durango,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Santiago do Cacém,Portugal,0,1,1,29749,['Museu Municipal de Santiago do Cacém'],1,0,0,1,0,1
+Rota,Spain,0,1,1,134985,['Museo Hispanoamericano Base Forum'],1,0,1,0,0,1
+Funchal,Portugal,0,1,1,111892,[],0,0,1,0,0,0
+Arfoud,Morocco,0,0,0,23637,[],0,0,0,1,0,0
+Carmona,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Redondela,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Benavente,Portugal,0,1,1,17261,"['Palacio de Pimentel','Casa del So']",2,0,0,1,0,1
+Arrentela,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Lepe,Spain,0,1,1,28813,[],0,0,0,1,0,0
+Taza,Morocco,0,0,0,152678,[],0,0,1,0,0,0
+Candelaria,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Benicarló,Spain,0,1,1,134985,"['MucBe Benicarló','Casa Tradicional Benicarlanda']",2,0,1,0,0,1
+Mehdya,Morocco,0,0,1,16262,[],0,0,0,1,0,0
+Villaviciosa de Odón,Spain,0,1,0,28750,[],0,0,0,1,0,0
+San Vicente dels Horts,Spain,0,0,0,807693,"['Musée des Sciences Principe Felipe', 'centre sportif',  ""Musée des Beaux-Arts de Valencia Musée de la céramique Musée d'Histoire de Valencia Musée de la Soie Musée des Soldats de Plomb Maison Musée du peintre José Benlliure et de son fils Mariano Benlliure Bibliothèque valencienne Bibliothèque publique de Valence Arts de la scène"", 'centres sportifs de chaque quartier', 'musée de la tauromachie', 'Centre municipal de Pelota Valenciana de Masarrochos', ""centres sportifs d'Orriols"", 'ateliers de charpenterie']",8,0,1,0,0,1
+San Pedro del Pinatar,Spain,0,1,1,134985,['Museo del Mar'],1,0,1,0,0,1
+Estarreja,Portugal,0,1,0,26997,"['Museu Fábrica da História - Arroz','Casa-Museu Egas Moniz']",2,0,0,1,0,1
+San Andrés de la Barca,Spain,0,0,0,134985,[],0,0,1,0,0,0
+Alhaurín el Grande,Spain,0,1,0,26879,['Museo de la Agricultura y Aula de la Tierra'],1,0,0,1,0,1
+Cangas,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Peniche,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Estoril,Portugal,0,1,1,23769,[],0,0,0,1,0,0
+Montemor-o-Velho,Portugal,0,1,1,25082,['Castle of Montemor-o-Velho'],1,0,0,1,0,1
+Tavira,Portugal,0,1,1,27524,[],0,0,0,1,0,0
+Odemira,Portugal,0,1,1,25738,[],0,0,0,1,0,0
+Novelda,Spain,0,1,0,25771,"['Centre culturel Gómez-Tortosa hébergé dans un bâtiment de 1902', 'Musée archéologique municipal installé dans la Casa de la Cultura', 'musée du Modernisme abrité dans une maison de style Art nouveau construite par Pedro Cerdán']",3,0,0,1,0,1
+Villanueva de la Serena,Spain,0,1,0,25751,['Centro Museístico Charo Acero'],1,0,0,1,0,1
+Lourinhã,Portugal,0,1,1,25735,[],0,0,0,1,0,0
+Oliva,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Bouknadel,Morocco,0,0,0,25255,['Musée Belghazi'],1,0,0,1,0,1
+Albergaria-a-Velha,Portugal,0,1,0,24840,[],0,0,0,1,0,0
+Almonte,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Adra,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Coín,Spain,0,1,1,21866,[],0,0,0,1,0,0
+Portalegre,Portugal,0,1,0,24930,"['Portalegre's Municipal Museum','Museo de Tapicería de Portalegre','Museu José Régio','Museu Municipal do Crato']",4,0,0,1,0,1
+Cambre,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Olesa de Montserrat,Spain,0,1,0,24446,"['Musée de Montserrat','Museo de la Colonia Sedó de Esparreguera']",2,0,0,1,0,1
+Erandio,Spain,0,1,1,24446,"['Musée Guggenheim Bilbao','Cathédrale Santa María de Vitoria-Gasteiz','Vieille Ville de Vitoria-Gasteiz','Vieille Ville de San Sebastián']",4,0,0,1,0,1
+Porto de Mós,Portugal,1,1,0,24342,"['Museu Municipal de Porto de Mós','Centro de Interpretación de la Batalla de Aljubarrota','Central das Artes','Grutas de Santo António']",4,0,0,1,0,1
+Los Barrios,Spain,0,1,0,24219,['Casa de la Cultura'],1,0,0,1,0,1
+Marín,Spain,0,1,1,134985,"['Colección Marín Museo Marin','Museo Municipal Manuel Torres']",2,0,1,0,0,1
+Mairena del Alcor,Spain,0,1,0,24125,["centre maintient intact l' urbanisme andalou fait de petites places et ruelles"],1,0,0,1,0,1
+Pontinha,Portugal,0,1,1,1,[],0,0,0,0,1,0
+Icod de los Vinos,Spain,0,1,1,23971,"['Museo Guanche','ARTlandya']",2,0,0,1,0,1
+Ibza,Spain,0,1,1,134985,"['Musée d'Art Contemporain d'Ibiza','Museo Puget']",2,0,1,0,0,1
+Mejorada del Campo,Spain,0,1,0,24274,['Catedral de Justo Gallego'],1,0,0,1,0,1
+Mirandela,Portugal,0,1,1,23850,[],1,0,0,1,0,1
+Altea,Spain,0,1,1,23820,['Museu de la Festa Moros i Cristians'],1,0,0,1,0,1
+Conil de la Frontera,Spain,0,1,1,23661,[],0,0,0,1,0,0
+Pilar de la Horadada,Spain,0,1,1,23428,[],0,0,0,1,0,0
+Teguise,Spain,0,1,1,23881,"['musée de la piraterie', 'centre de Teguise']",2,0,0,1,0,1
+Caniço,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Zarautz,Spain,0,1,1,23101,['galeries ],1,0,0,1,0,1
+Moguer,Spain,0,1,0,12537,"['centre de Palos à La Rabida', 'Musée Vicente Pinzon', 'musée géré par le conseil provincial de Huelva']",3,0,0,1,0,1
+El Palmar,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Arbia Tighadwiyn,Morocco,0,0,1,134985,"['Ermita de San Pedro - Aripe','Parroquia Ntra. Sra. de la Luz - Guía de Isora']",2,0,1,0,0,1
+Guía de Isora,Spain,0,1,0,22301,[],0,0,0,1,0,0
+Montilla,Spain,0,1,0,134985,"['Museo Garnelo','Museo Histórico de Montilla','Casa del Inca Garcilaso de la Vega']",3,0,1,0,0,1
+Maracena,Spain,0,1,0,22275,[],0,0,0,1,0,0
+Lordelo do Ouro,Portugal,0,1,1,22270,[],0,0,0,1,0,0
+Salvaterra de Magos,Portugal,0,1,1,22159,[],0,0,0,1,0,0
+Priego de Córdoba,Spain,0,1,0,22003,['Museo Histórico Municipal'],1,0,0,1,0,1
+Nerja,Spain,0,1,1,21913,['Museum of the village of Nerja'],1,0,0,1,0,1
+Machico,Portugal,0,1,1,21747,['Whaling Museum of Madeira'],1,0,0,1,0,1
+Azambuja,Portugal,0,1,0,21814,[],0,0,0,1,0,0
+Amposta,Spain,0,1,1,22270,"['Museu de les Terres de l'Ebre','Centro de Arte Tierras del Ebro - Lo Pati','Pont Penjant Amposta']",3,0,0,1,0,1
+São João da Madeira,Portugal,0,1,0,21713,['Sao Joao da Madeira Turismo Industrial'],1,0,0,1,0,1
+Ayamonte,Spain,0,1,1,21645,"['Edificio Jovellanos - Museo Cofrade','Casa Museo Hermandad Soledad Ayamonte']",2,0,0,1,0,1
+Tamgrout,Morocco,0,0,0,134985,"[""Musée d'Art Contemporain"", ""Centre Européen d'Art Contemporain""]",2,0,1,0,0,1
+Aspe,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Alcudia,Spain,0,0,1,134985,"['Museo Sa Bassa Blanca','Museu Monogràfic de Pollèntia']",2,0,1,0,0,1
+Pájara,Spain,0,1,1,21271,[],0,0,0,1,0,0
+Rio Maior,Portugal,0,1,0,21621,['Parc naturel des Serras de Aire'],1,0,0,1,0,1
+Manlleu,Spain,0,1,0,21172,['El Ter Industrial Museum  Can Sanglas'],1,0,0,1,0,1
+Cartaya,Spain,0,1,1,21128,[],0,0,0,1,0,0
+Palafrugell,Spain,0,1,1,23848,[],0,0,0,1,0,0
+Praia da Vitória,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Torrox,Spain,0,1,1,20932,[],0,0,0,1,0,0
+Oliveira do Hospital,Portugal,0,1,0,21901,['Museu do Azeite'],1,0,0,1,0,1
+Los Llanos de Aridane,Spain,0,1,1,20189,['Museo de Arte Sacro'],1,0,0,1,0,1
+Cinfães,Portugal,0,1,1,20427,"['Museu Serpa Pinto','Museu Etnográfico Quinta da Granja']",2,0,0,1,0,1
+Entroncamento,Portugal,0,1,0,20206,"['National Railway Museum','Château d'Almourol']",2,0,0,1,0,1
+Rosas,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Archena,Spain,0,1,0,20110,[],0,0,0,1,0,0
+Celorico de Basto,Portugal,0,1,0,20098,[],0,0,0,1,0,0
+Medina del Campo,Spain,0,1,0,20090,['musée des Foires a été créé pour présenter les objets liés à ce marché ouvert'],1,0,0,1,0,1
+Cabra,Spain,0,1,0,20070,[],0,0,0,1,0,0
+Coruche,Portugal,0,1,1,19944,[],0,0,0,1,0,0
+San Martín de la Vega,Spain,0,1,0,20304,[],0,0,0,1,0,0
+Piedade,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Tolosa,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Calella,Spain,0,1,0,19862,"['galerie consacrée à Lluis Gallart i Garcia', 'musée des Archives']",2,0,0,1,0,1
+Silla,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Calatayud,Spain,0,1,0,19677,["Musée d'art sacré"],1,0,0,1,0,1
+Chipiona,Spain,0,1,1,19649,[],0,0,0,1,0,0
+El Arahal,Spain,0,0,0,19491,[],0,0,0,1,0,0
+Callosa de Segura,Spain,0,1,0,19484,[],0,0,0,1,0,0
+Albolote,Spain,0,1,0,19474,[],0,0,0,1,0,0
+Moaña,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Marchena,Spain,0,1,0,19271,[],0,0,0,1,0,0
+Soure,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Monção,Portugal,0,1,1,19842,['Centre Historique de Monção Les thermes La tour de Lapela Le Palais de Brejoeira Le pont de Barbeita Fêtes'],1,0,0,1,0,1
+Malgrat de Mar,Spain,0,1,1,19213,"['Sagrada Família','Casa Batlló','Parc Güell']",3,0,0,1,0,1
+Vila Real de Santo António,Portugal,0,1,1,19156,[],0,0,0,1,0,0
+Boiro,Spain,0,1,1,134985,['Centro de Interpretación do Castro de Neixón'],1,0,1,0,0,1
+Vera,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Tarifa,Spain,0,1,1,18621,[],0,0,0,1,0,0
+Los Alcázares,Spain,0,1,1,18598,[],0,0,0,1,0,0
+Felanitx,Spain,0,1,1,18592,"['Musée Cosme Bauçà inauguré le 28 août 1963 sur le fonds que Cosme Bauçà a légué à la ville', 'musée organise de nombreuses manifestations culturelles']",2,0,0,1,0,1
+San Lorenzo de El Escorial,Spain,0,1,0,18489,"['Museo Coliseo','Museo Cocheras del Rey']",2,0,0,1,0,1
+Mangualde,Portugal,0,1,1,19880,[],0,0,0,1,0,0
+Monforte de Lemos,Spain,0,1,0,18234,"['Musée ferroviaire de Galice','Museo Lodeiro','Convento de las Clarisas de Monforte']",3,0,0,1,0,1
+Santa Iria da Azóia,Portugal,0,0,0,17571,"['Galerie Municipal du Château de Pirescoxe Église de Santa Iria de Azóia Palaces','Pirescoxe Castle','Igreja Matriz de Santa Iria de Azóia']",3,0,0,1,0,1
+El Astillero,Spain,0,1,1,18220,[],0,0,0,1,0,0
+Palamós,Spain,0,1,1,18293,[],0,0,0,1,0,0
+Nigrán,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Tordera,Spain,0,1,0,18409,[],0,0,0,1,0,0
+Manilva,Spain,0,1,1,17857,[],0,0,0,1,0,0
+Parede,Portugal,0,1,1,1370,[],0,0,0,0,1,0
+Manzanares,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Torredembarra,Spain,0,1,1,17670,[],0,0,0,1,0,0
+Monzón,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Balaguer,Spain,0,1,0,17649,[],0,0,0,1,0,0
+Daimiel,Spain,0,1,0,17629,[],0,0,0,1,0,0
+Lousã,Portugal,0,1,0,17604,[],0,0,0,1,0,0
+Alcochete,Portugal,0,1,1,19143,[],0,0,0,1,0,0
+Sahel,Morocco,0,1,0,134985,"['Centre de Crise du Ministère des Affaires Étrangères Français', 'centre de situation au MAEE']",2,0,1,0,0,1
+Villanueva del Pardillo,Spain,0,1,0,17731,"[ 'centre paroissial', 'centre culturel et la bibliothèque depuis 1991', 'centre rectoral et la catéchèse autour d', 'musée du Maître']",4,0,0,1,0,1
+Guardamar del Segura,Spain,0,1,1,17328,[],0,0,0,1,0,0
+Benavente,Spain,0,1,1,17261,[],0,0,0,1,0,0
+Bermeo,Spain,0,1,1,16755,["ateliers pour les plus petits et s'ouvre un chapiteau dans lequel on peut déguster les différentes espèces de poissons"],1,0,0,1,0,1
+Sada,Spain,0,1,1,134985,[],0,0,1,0,0,0
+São Pedro do Sul,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Cabeceiras de Basto,Portugal,0,1,1,16710,[],0,0,0,1,0,0
+Arenys de Mar,Spain,0,1,1,16342,[],0,0,0,1,0,0
+Alcañiz,Spain,0,1,1,16006,"['Museo de la Magia','C.I.B.A (Centro de los Íberos del Bajo Aragón)']",2,0,0,1,0,1
+Quarteira,Portugal,0,1,1,16131,[],0,0,0,1,0,0
+Punta Umbría,Spain,0,1,1,16069,[],0,0,0,1,0,0
+Tuineje,Spain,0,1,1,15967,[],0,0,0,1,0,0
+Sertã,Portugal,0,1,1,15880,[],0,0,0,1,0,0
+Baeza,Spain,0,1,0,15723,"['centre-ville depuis la tour de la cathédrale', 'centre historique de Baeza constitue']",2,0,0,1,0,1
+Santa Cruz de la Palma,Spain,0,1,1,15441,"['Museo Insular de La Palma','Museo Naval - Barco de la Virgen']",2,0,0,1,0,1
+Fraga,Spain,0,1,0,15373,[],0,0,0,1,0,0
+Castro Daire,Portugal,0,1,1,15339,[],0,0,0,1,0,0
+Santa Úrsula,Spain,0,1,1,15285,[],0,0,0,1,0,0
+Cunit,Spain,0,1,1,15278,[],0,0,0,1,0,0
+Penacova,Portugal,0,1,1,15251,[],0,0,0,1,0,0
+Gondomar,Spain,0,1,1,168027,[],0,0,1,0,0,0
+Cuevas del Almanzora,Spain,0,1,1,15023,[],0,0,0,1,0,0
+Canet de Mar,Spain,0,1,1,15010,[],0,0,0,1,0,0
+Grândola,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+La Carolina,Spain,0,1,0,14801,[],0,0,0,1,0,0
+Anta,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Cuarte de Huerva,Spain,0,1,0,14701,[],0,0,0,1,0,0
+Santa Marta de Tormes,Spain,0,1,0,14683,[],0,0,0,1,0,0
+Ifrane,Morocco,0,1,0,15553,[],0,1,0,1,0,0
+Lagoa,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Valbom,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Horta,Portugal,0,1,1,134985,"['Centre belge de la bande dessinée', ""atelier de l'architecte sont devenus le Musée Horta""]",2,0,1,0,0,1
+Sines,Portugal,0,1,1,18298,[],0,0,0,1,0,0
+Valença,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Gafanha da Nazaré,Portugal,0,1,1,14021,[],0,0,0,1,0,0
+Moralzarzal,Spain,0,1,0,14124,[],0,0,0,1,0,0
+Torrijos,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Ocaña,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Tomiño,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Nules,Spain,0,1,1,13827,"[""Musée de l'Histoire"", 'Musée de Medallistica Enrique Giner']",2,0,0,1,0,1
+Cambados,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Verín,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Sóller,Spain,0,1,1,13610,"['musée Can Prunera de Soller expose des ?uvres modernes', 'musée des sciences naturelles est situé dans le Jardin botanique de Sóller', 'Musées']",3,0,0,1,0,1
+Llanes,Spain,0,1,1,13524,[],0,0,0,1,0,0
+Antigua,Spain,0,1,1,134985,"[""Musée d'Antigua-et-Barbuda à Saint John's"", ""Musée des chantiers navals Betty's Hope"", 'Musées']",3,0,1,0,0,1
+Ribeira Brava,Portugal,0,1,1,13375,[],0,0,0,1,0,0
+Canals,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Santa Margarita,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Alovera,Spain,0,1,0,13407,[],0,0,0,1,0,0
+Miranda do Corvo,Portugal,0,1,0,13400,[],0,0,0,1,0,0
+Albatera,Spain,0,1,0,13092,[],0,0,0,1,0,0
+Betanzos,Spain,0,1,1,13082,['centre historique de nombreux édifices bien conservés en témoignent'],1,0,0,1,0,1
+Moreira,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+São Félix da Marinha,Portugal,0,1,1,11171,[],0,0,0,1,0,0
+Salobreña,Spain,0,1,1,12562,[],0,0,0,1,0,0
+Fene,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Sabugal,Portugal,0,1,1,12544,[],0,0,0,1,0,0
+Monóvar,Spain,0,0,0,12542,[],0,0,0,1,0,0
+Palos de la Frontera,Spain,0,1,1,12537,"['centre de Palos à La Rabida', 'Musée Vicente Pinzon', 'musée géré par le conseil provincial de Huelva']",3,0,0,1,0,1
+Teulada,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Santañy,Spain,0,0,0,134985,[],0,0,1,0,0,0
+Mira,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Villamartín,Spain,0,1,0,12165,[],0,0,0,1,0,0
+Huétor Vega,Spain,0,1,0,12159,[],0,0,0,1,0,0
+Arganil,Portugal,0,1,1,12145,[],0,0,0,1,0,0
+Socuéllamos,Spain,0,1,0,12123,[],0,0,0,1,0,0
+Albox,Spain,0,1,0,12311,[],0,0,0,1,0,0
+Tábua,Portugal,0,1,0,12071,[],0,0,0,1,0,0
+Ciudad-Rodrigo,Spain,0,0,0,11810,['Musée du pot de chambre'],1,0,0,1,0,1
+Bolaños de Calatrava,Spain,0,1,0,11991,['Parque Municipal Cardenal Cisneros'],1,0,0,1,0,1
+Benifayó,Spain,0,0,1,11984,['Musée de la préhistoire de Valence'],1,0,0,1,0,1
+Santiago del Teide,Spain,0,1,1,11972,['Musée de la pêche ou'],1,0,0,1,0,1
+Arrigorriaga,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Alijó,Portugal,0,1,1,10486,[],0,0,0,1,0,0
+Bueu,Spain,0,1,1,134985,[],0,0,1,0,0,0
+La Puebla del Río,Spain,0,1,0,11862,[],0,0,0,1,0,0
+Vendas Novas,Portugal,0,1,0,11846,[],0,0,0,1,0,0
+Son Servera,Spain,0,1,1,11932,[],0,0,0,1,0,0
+Portela,Portugal,0,1,0,134985,[],0,0,1,0,0,0
+Olivenza,Spain,0,1,0,11776,[],0,0,0,1,0,0
+Oñate,Spain,0,0,1,134985,"['galerie 53', 'galerie ancien drain fossile de la rivière Aldaola', 'galerie mesure quelque 500 m et a une inégalité de 45']",3,0,1,0,0,1
+Douar Trougout,Morocco,0,0,1,720618,"['centre pédagogique régional pour la formation des professeurs du premier cycle', 'Centre de formation des professeurs du primaire', 'Centre pédagogique régional pour la formation des professeurs du premier cycle', 'ateliers']",4,0,1,0,0,1
+Ahlaf,Morocco,0,0,0,134985,[],0,0,1,0,0,0
+Cocentaina,Spain,0,1,0,11451,[],0,0,0,1,0,0
+Jódar,Spain,0,1,0,11449,[],0,0,0,1,0,0
+Esmoriz,Portugal,0,1,1,11922,[],0,0,0,1,0,0
+Pulpí,Spain,0,1,1,11247,[],0,0,0,1,0,0
+Feira,Portugal,0,1,0,139312,[],0,0,1,0,0,0
+Bargas,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Cabanillas del Campo,Spain,0,1,0,11034,[],0,0,0,1,0,0
+Berriozar,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Meliana,Spain,0,1,1,10918,[],0,0,0,1,0,0
+Santoña,Spain,0,1,1,134985,[],0,0,1,0,0,0
+La Puebla de Cazalla,Spain,0,1,0,10884,[],0,0,0,1,0,0
+Sant Joan de Vilatorrada,Spain,0,1,0,10959,[],0,0,0,1,0,0
+Rianxo,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Laredo,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Brunete,Spain,0,1,0,11014,[],0,0,0,1,0,0
+Avintes,Portugal,0,1,1,302295,[],0,0,1,0,0,0
+Reguengos de Monsaraz,Portugal,0,1,1,10828,[],0,1,0,1,0,0
+Vouzela,Portugal,0,1,1,10564,[],0,0,0,1,0,0
+Montalegre,Portugal,0,1,1,30050,[],0,0,0,1,0,0
+Griñón,Spain,0,1,0,10087,[],0,0,0,1,0,0
+Gelves,Spain,0,1,0,10388,[],0,0,0,1,0,0
+Villacarrillo,Spain,0,1,0,10344,[],0,0,0,1,0,0
+Garrucha,Spain,0,1,1,10336,[],0,0,0,1,0,0
+Caspe,Spain,0,1,0,10336,[],0,0,0,1,0,0
+Melres,Portugal,0,0,1,168027,[],0,0,1,0,0,0
+Vila Franca do Campo,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+El Álamo,Spain,0,1,0,10322,[],0,0,0,1,0,0
+Astorga,Spain,0,1,0,10321,"[""musée recèle un trésor de reliquaires sertis de pierreries et d'ostensoirs en argent"", 'musée du chocolat', 'musée des Chemins']",3,0,0,1,0,1
+Peñarroya-Pueblonuevo,Spain,0,1,0,10317,[],0,0,0,1,0,0
+Amurrio,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Alcaudete,Spain,0,1,0,10265,[],0,0,0,1,0,0
+Oliveira de Frades,Portugal,0,1,0,10597,[],0,0,0,1,0,0
+Ericeira,Portugal,0,1,1,6597,[],0,0,0,0,1,0
+Alhendín,Spain,0,1,0,10216,[],0,0,0,1,0,0
+Moimenta da Beira,Portugal,0,1,1,11053,[],0,0,0,1,0,0
+Zumaia,Spain,0,1,1,134985,"['Musée Zuloaga', 'Musée Zuloaga et qui ont donné lieu à des différends familiaux', 'atelier du peintre', 'centre historique de Zumaia']",4,0,1,0,0,1
+Madridejos,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Canteras,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Foz,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Calasparra,Spain,0,1,0,10161,[],0,0,0,1,0,0
+Caudete,Spain,0,1,1,10146,[],0,0,0,1,0,0
+Alella,Spain,0,1,1,10139,[],0,0,0,1,0,0
+Sax,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Binéfar,Spain,0,1,0,10070,[],0,0,0,1,0,0
+La Bañeza,Spain,0,1,0,10047,[],0,0,0,1,0,0
+Mengibar,Spain,0,0,0,10041,[],0,0,0,1,0,0
+Setúbal,Portugal,0,1,1,123496,[],0,0,1,0,0,0
+Morayra,Spain,0,0,0,134985,[],0,0,1,0,0,0
+Praia do Carvoeiro,Portugal,0,0,1,134985,[],0,0,1,0,0,0
+Torrejón de la Calzada,Spain,0,1,1,10222,[],0,0,0,1,0,0
+Consuegra,Spain,0,1,0,9805,[],0,0,0,0,1,0
+Santa Clara,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Sidi Rahhal,Morocco,0,0,1,6352,[],0,0,0,0,1,0
+Maceira,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Matadepera,Spain,0,1,0,9899,[],0,0,0,0,1,0
+Pizarra,Spain,0,1,1,9886,[],0,0,0,0,1,0
+Trancoso,Portugal,0,1,1,9878,[],0,0,0,0,1,0
+Santa María de Palautordera,Spain,0,0,0,9872,[],0,0,0,0,1,0
+Fuente Palmera,Spain,0,1,0,9850,[],0,0,0,0,1,0
+Masquefa,Spain,0,1,0,9839,[],0,0,0,0,1,0
+Carregal do Sal,Portugal,0,1,1,9835,[],0,0,0,0,1,0
+Ribadeo,Spain,0,1,1,134985,[],0,0,1,0,0,0
+El Espinar,Spain,0,1,0,9814,[],0,0,0,0,1,0
+Mora,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Rute,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Valsequillo de Gran Canaria,Spain,0,1,0,9667,[],0,0,0,0,1,0
+Villarrubia de los Ojos,Spain,0,1,0,9667,[],0,0,0,0,1,0
+Pinos Puente,Spain,0,1,0,9664,[],0,0,0,0,1,0
+Palafolls,Spain,0,1,0,9819,[],0,0,0,0,1,0
+San Juan del Puerto,Spain,0,1,0,9659,[],0,0,0,0,1,0
+Pinhel,Portugal,0,1,1,10436,[],0,0,0,1,0,0
+Grado,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Alcanar,Spain,0,1,0,9827,[],0,0,0,0,1,0
+Cuéllar,Spain,0,1,0,9608,["Centre d'Interprétation de l'Art Mudéjar et crée un spectacle de son et lumière qui permet de connaître cet art et la vie des gens de l'époque"],1,0,0,0,1,1
+San Sebastián de la Gomera,Spain,0,1,1,23076,[],0,0,0,1,0,0
+Cervelló,Spain,0,1,0,9469,[],0,0,0,0,1,0
+Cervera,Spain,0,1,0,9453,[],0,0,0,0,1,0
+Villacañas,Spain,0,1,0,9511,[],0,0,0,0,1,0
+Segorbe,Spain,0,1,0,9425,[],0,0,0,0,1,0
+Sabiñánigo,Spain,0,1,0,9185,[],0,0,0,0,1,0
+Tocina,Spain,0,1,0,9420,[],0,0,0,0,1,0
+Arenys de Munt,Spain,0,1,0,9413,[],0,0,0,0,1,0
+Umbrete,Spain,0,1,0,9376,[],0,0,0,0,1,0
+Miajadas,Spain,0,1,0,9359,[],0,0,0,0,1,0
+Santa María de Cayón,Spain,0,1,0,9316,[],0,0,0,0,1,0
+Monserrat,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Catral,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Aljustrel,Portugal,0,1,0,9257,[],0,0,0,0,1,0
+Manzanares el Real,Spain,0,1,0,9386,[],0,0,0,0,1,0
+Benahavís,Spain,0,1,0,9244,[],0,0,0,0,1,0
+La Victoria de Acentejo,Spain,0,1,0,9228,[],0,0,0,0,1,0
+Llagostera,Spain,0,1,0,9208,[],0,0,0,0,1,0
+Paredes de Coura,Portugal,0,1,1,9409,[],0,0,0,0,1,0
+Cistérniga,Spain,0,0,0,9182,[],0,0,0,0,1,0
+Jerez de los Caballeros,Spain,0,1,0,9147,[],0,0,0,0,1,0
+Loeches,Spain,0,1,0,1295,[],0,0,0,0,1,0
+Rebordosa,Portugal,0,1,0,10813,[],0,0,0,1,0,0
+Tineo,Spain,0,1,0,8857,['centre culturel'],1,0,0,0,1,1
+La Matanza de Acentejo,Spain,0,1,0,9092,[],0,0,0,0,1,0
+Suances,Spain,0,1,1,9091,[],0,0,0,0,1,0
+Sidi Ouassay,Morocco,0,0,1,371102,[],0,0,1,0,0,0
+Vinhais,Portugal,0,1,1,9066,[],0,0,0,0,1,0
+Carregado,Portugal,0,1,0,11707,[],0,0,0,1,0,0
+Caxias,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Cheste,Spain,0,1,0,8962,[],0,0,0,0,1,0
+Aver-o-Mar,Portugal,0,1,1,134985,[],0,0,1,0,0,0
+Villamediana de Iregua,Spain,0,1,0,8954,[],0,0,0,0,1,0
+Vila Nova de Cerveira,Portugal,0,1,1,9253,[],0,0,0,0,1,0
+Almagro,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Silleda,Spain,0,1,0,134985,[],0,0,1,0,0,0
+Rabo de Peixe,Portugal,0,0,1,134985,[],0,0,1,0,0,0
+Ponta do Sol,Portugal,0,1,0,8125,[],0,0,0,0,1,0
+Agadir Melloul,Morocco,0,0,1,201140,[],0,0,1,0,0,0
+Finestrat,Spain,0,1,1,8836,[],0,0,0,0,1,0
+Montmeló,Spain,0,1,0,8825,[],0,0,0,0,1,0
+Trujillo,Spain,0,1,1,134985,[],0,0,1,0,0,0
+San Martín de Valdeiglesias,Spain,0,1,1,9003,[],0,0,0,0,1,0
+Hoyo de Manzanares,Spain,0,1,0,8973,[],0,0,0,0,1,0
+Saidia,Morocco,0,0,1,3871,[],0,1,0,0,1,0
+Tordesillas,Spain,0,1,1,134985,[],0,0,1,0,0,0
+Tudela de Duero,Spain,0,1,0,8780,["Musée à l'air libre"],1,0,0,0,1,1
+Zuera,Spain,0,1,0,8677,[],0,0,0,0,1,0
+Ferreira do Zêzere,Portugal,0,1,1,8619,[],0,0,0,0,1,0
+Torre de Moncorvo,Portugal,0,0,1,9408,[],0,0,0,0,1,0
+Reinosa,Spain,0,1,0,8570,[],0,0,0,0,1,0
+Colindres,Spain,0,1,0,8549,[],0,0,0,0,1,0
+Santiponce,Spain,0,1,0,8539,[],0,0,0,0,1,0

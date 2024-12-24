@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>City Recommendation</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        /* Global Styles */
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #fceabb, #84b6d8);
+        
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .container {
+            padding: 40px;
+            width: 90%;
+            max-width: 900px;
+            text-align: center;
+            animation: fadeIn 1s ease-in-out;
+            /* Suppression du fond et des bordures */
+            box-shadow: none;
+            background: none;
+        }
+
+        h1 {
+            font-size: 2.8em;
+            margin-bottom: 20px;
+            color: #84a0c9;
+        }
+
+        h2 {
+            font-size: 2em;
+            margin-top: 30px;
+            color: #333;
+            font-weight: 600;
+            animation: typing 3s steps(20, end), blink 0.5s step-end infinite;
+        }
+
+        .show-more-btn {
+            padding: 10px 25px;
+            margin-top: 20px;
+            background-color: #84a0c9;
+            color: #333;
+            border: none;
+            border-radius: 25px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: transform 0.3s ease, background-color 0.3s ease;
+        }
+
+        .show-more-btn:hover {
+            transform: scale(1.1);
+            background-color: #1d3557;
+        }
+
+        .city-selection {
+            display: flex;
+            justify-content: space-between;
+            gap: 30px;
+            flex-wrap: wrap;
+            margin: 20px 0;
+        }
+
+        .city-card {
+            width: 30%;
+            /* Enlever le fond blanc des cartes */
+            background-color: rgb(241, 232, 232);
+            border-radius: 15px;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            transition: transform 0.3s ease;
+            margin-bottom: 20px;
+        }
+
+        .city-card img {
+            width: 100%;
+            height: 220px;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+        }
+
+        .city-card h3 {
+            text-align: center;
+            margin: 15px 0;
+            font-size: 1.6em;
+            color: #333;
+        }
+
+        .city-card p {
+            text-align: center;
+            color: #777;
+            padding: 0 15px;
+        }
+
+        .city-card:hover {
+            transform: translateY(-10px);
+        }
+
+        .museum-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 20px;
+            margin-top: 20px;
+            display: none;
+            opacity: 0;
+            transition: opacity 0.5s ease-in-out;
+        }
+
+        .museum-card {
+            background-color: #f0f0f0;
+            border-radius: 10px;
+            padding: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .museum-card:hover {
+            transform: scale(1.05);
+        }
+
+        .museum-card h4 {
+            font-size: 1.2em;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .museum-card ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .museum-card li {
+            padding: 5px 0;
+            color: #777;
+        }
+
+        /* Add some nice animations */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: scale(0.95);
+            }
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        @keyframes typing {
+            from {
+                width: 0;
+            }
+            to {
+                width: 100%;
+            }
+        }
+
+        @keyframes blink {
+            from, to {
+                border-color: transparent;
+            }
+            50% {
+                border-color: #333;
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>City Recommendation Based on Sentiment</h1>
+        <p>Detected Sentiment: <strong>{{ sentiment }}</strong></p>
+
+        <h2>Recommended Cities</h2>
+        <div class="city-selection">
+            {% for city in recommendations.itertuples() %}
+            <div class="city-card">
+                <h3>{{ city.city }}</h3>
+                <p>Country: {{ city.country }}</p>
+                <p>Historical: {{ '✔️' if city.Historical == 1 else '❌' }}</p>
+                <p>Green Spaces: {{ '✔️' if city.espace_vert == 1 else '❌' }}</p>
+                <p>Beach: {{ '✔️' if city.plage == 1 else '❌' }}</p>
+
+                <button class="show-more-btn" onclick="toggleMuseums('{{ city.city }}')">More Info</button>
+
+                <div class="museum-list" id="museum-{{ city.city }}">
+                    <h4>Museums in {{ city.city }}</h4>
+                    <!-- Affichage des musées disponibles -->
+                    {% for museum in city.musées %}
+                    <div class="museum-card">
+                        <h5>{{ museum }}</h5>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <a href="/" style="padding: 10px 25px;
+        margin-top: 20px;
+        background-color: #fceabb;
+        color: #333;
+        border: none;
+        border-radius: 25px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: transform 0.3s ease, background-color 0.3s ease;text-decoration: none;">Back to Home</a>
+    </div>
+
+    <script>
+        function toggleMuseums(cityName) {
+            const museumDiv = document.getElementById('museum-' + cityName);
+            if (museumDiv.style.display === 'none' || museumDiv.style.display === '') {
+                museumDiv.style.display = 'grid';
+                setTimeout(() => {
+                    museumDiv.style.opacity = 1;
+                }, 100);
+            } else {
+                museumDiv.style.opacity = 0;
+                setTimeout(() => {
+                    museumDiv.style.display = 'none';
+                }, 500);
+            }
+        }
+    </script>
+</body>
+</html>

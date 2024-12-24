@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart City Selector</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fceabb;
+            background-image: url('https://i.pinimg.com/736x/fe/44/7e/fe447e1dbaac071fa051ac3ecab1d9ae.jpg');
+            background-size: cover;
+            background-position: center center;
+            background-attachment: fixed;
+            color: #1d3557;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.8);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            width: 100%;
+            max-width: 700px;
+            animation: fadeIn 0.8s ease-in-out;
+        }
+
+        header h1 {
+            text-align: center;
+            color: #1d3557;
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            text-align: center;
+            font-size: 1em;
+            color: #457b9d;
+            margin-bottom: 20px;
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+
+        .section h2 {
+            color: #1d3557;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+
+        input[type="range"] {
+            width: 100%;
+            appearance: none;
+            background: #ddd;
+            height: 6px;
+            border-radius: 5px;
+            margin: 10px 0;
+            cursor: pointer;
+        }
+
+        input[type="range"]::-webkit-slider-thumb {
+            appearance: none;
+            background: #1d3557;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .mood-display {
+            text-align: right;
+            font-size: 1em;
+            font-weight: bold;
+            color: #1d3557;
+        }
+
+        button {
+            background-color: #1d3557;
+            color: #fff;
+            padding: 12px;
+            font-size: 1.1em;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            width: 100%;
+        }
+
+        button:hover {
+            background-color: #f1faee;
+        }
+
+        .preference-display {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .preference-display span {
+            font-weight: bold;
+            color: #457b9d;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: scale(0.95);
+            }
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Smart City Selector</h1>
+            <p>Choose your next travel destination based on your mood and preferences!</p>
+        </header>
+
+        <!-- Formulaire principal -->
+        <form action="/recommendation" method="POST">
+            <!-- Section 3: Expression textuelle -->
+            <div class="section">
+                <h2>Feel Free</h2>
+                <label for="text">Describe your emotions:</label>
+                <textarea id="text" name="text" rows="4" cols="90" placeholder="Express here..." required></textarea>
+            </div>
+            <!-- Section 2: Préférences utilisateur -->
+            <div class="section">
+                <h2>Your Preferences</h2>
+
+                <label for="plage">Plage</label>
+                <input type="range" id="plage" name="plage" min="0" max="5" value="3">
+
+                <label for="espace_vert">Espace Vert</label>
+                <input type="range" id="espace_vert" name="espace_vert" min="0" max="5" value="3">
+                
+                <label for="romantique">Romantique</label>
+                <input type="range" id="romantique" name="romantique" min="0" max="5" value="3">
+
+                <label for="historical">Historical places</label>
+                <input type="range" id="historical" name="Historical" min="0" max="5" value="3">
+
+            </div>
+
+            
+
+            <!-- Bouton d'action -->
+            <div class="actions">
+                <button type="submit" id="submit-btn">Get Recommendation</button>
+            </div>
+        </form>
+    </div>
+
+    <!-- JavaScript -->
+    <script>
+        // Mettre à jour l'affichage de l'humeur
+        function updateMoodDisplay(value) {
+            document.getElementById('moodValue').textContent = value;
+        }
+
+        // Mettre à jour l'affichage des préférences
+        function updatePreferenceDisplay(preference) {
+            const value = document.getElementById(preference).value;
+            document.getElementById(preference + 'Display').textContent = value;
+        }
+    </script>
+</body>
+</html>

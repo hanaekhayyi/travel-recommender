@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>City Recommendation</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: url('https://i.pinimg.com/736x/a7/96/e3/a796e37aedf6d1153d820620eb135c7c.jpg') no-repeat center center/cover;
+            color: #1d3557;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .hero-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: row;
+            height: 100%;
+            padding: 40px;
+            background: rgba(0, 0, 0, 0.6); /* Couche de transparence pour améliorer le contraste */
+        }
+
+        .content {
+            max-width: 600px;
+            margin-right: 40px;
+            color: white;
+        }
+
+        .hero-section h1 {
+            font-size: 48px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .highlighted-text {
+            margin-bottom: 30px;
+            padding: 20px;
+            background-color: rgba(241, 250, 238, 0.8); /* Fond semi-transparent */
+            border-left: 4px solid #50838a;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        .highlighted-text p {
+            margin-bottom: 10px;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        .highlighted-text .subtext {
+            font-size: 16px;
+            color: #457b9d;
+        }
+
+        .buttons {
+            display: flex;
+            gap: 20px;
+        }
+
+        .btn {
+            padding: 15px 30px;
+            background-color: #687b9e;
+            color: #d1d7df;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .btn:hover {
+            transform: scale(1.1);
+            background-color: #f1faee;
+        }
+
+        .image-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex: 1;
+        }
+
+        .image-container img {
+            max-width: 50%;
+            height: auto;
+            border-radius: 15px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        @media screen and (max-width: 768px) {
+            .hero-section {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .image-container {
+                margin-top: 20px;
+            }
+
+            .hero-section h1 {
+                font-size: 36px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="hero-section">
+        <div class="content">
+            <h1>Find Your Perfect Travel City</h1>
+            <div class="highlighted-text">
+                <p>Discover the best city for your next adventure, tailored to your emotions and preferences.</p>
+                <p class="subtext">Let us help you choose the city that matches your mood and spirit.</p>
+            </div>
+            <div class="buttons">
+                <a href="/sentiment" class="btn order">Get Recommendation</a>
+            </div>
+        </div>
+    </div>
+    <footer style="background-color: #02080e; color: white; text-align: center; padding: 20px;">
+        <p>&copy; 2024 City Recommendation. All rights reserved.</p>
+    </footer>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const text = "Find Your Perfect Travel City";
+            const h1 = document.querySelector(".hero-section h1");
+            h1.textContent = "";
+            let i = 0;
+
+            function typeWriter() {
+                if (i < text.length) {
+                    h1.textContent += text.charAt(i);
+                    i++;
+                    setTimeout(typeWriter, 100);
+                }
+            }
+
+            typeWriter();
+        });
+    </script>
+</body>
+</html>
